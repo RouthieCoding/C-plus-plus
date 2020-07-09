@@ -1,0 +1,3 @@
+﻿  StringSplit.cpp
+C:\Users\Ry\source\repos\StringSplit\StringSplit\StringSplit.cpp(111,20): warning C4018:  '<=': signed/unsigned mismatch
+  StringSplit.vcxproj -> C:\Users\Ry\source\repos\StringSplit\Debug\StringSplit.exe

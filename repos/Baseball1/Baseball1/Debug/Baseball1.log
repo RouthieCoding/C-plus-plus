@@ -1,0 +1,3 @@
+﻿  Baseball1.cpp
+c:\users\ry\source\repos\baseball1\baseball1\baseball1.cpp(94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Baseball1.vcxproj -> C:\Users\Ry\source\repos\Baseball1\Debug\Baseball1.exe

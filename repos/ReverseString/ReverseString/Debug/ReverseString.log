@@ -1,0 +1,7 @@
+﻿  ReverseString.cpp
+C:\Users\Ry\source\repos\ReverseString\ReverseString\ReverseString.cpp(25,17): warning C4930:  'std::vector<std::string,std::allocator<_Ty>> s(const std::string &)': prototyped function not called (was a variable definition intended?)
+C:\Users\Ry\source\repos\ReverseString\ReverseString\ReverseString.cpp(25,17): warning C4930:         with
+C:\Users\Ry\source\repos\ReverseString\ReverseString\ReverseString.cpp(25,17): warning C4930:         [
+C:\Users\Ry\source\repos\ReverseString\ReverseString\ReverseString.cpp(25,17): warning C4930:             _Ty=std::string
+C:\Users\Ry\source\repos\ReverseString\ReverseString\ReverseString.cpp(25,17): warning C4930:         ]
+  ReverseString.vcxproj -> C:\Users\Ry\source\repos\ReverseString\Debug\ReverseString.exe

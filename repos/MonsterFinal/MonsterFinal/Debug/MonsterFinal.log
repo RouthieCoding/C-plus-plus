@@ -1,0 +1,7 @@
+﻿  Character.cpp
+c:\users\ry\source\repos\monsterfinal\monsterfinal\character.h(5): error C3646: 'name': unknown override specifier
+c:\users\ry\source\repos\monsterfinal\monsterfinal\character.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  MonsterFinal.cpp
+c:\users\ry\source\repos\monsterfinal\monsterfinal\character.h(5): error C3646: 'name': unknown override specifier
+c:\users\ry\source\repos\monsterfinal\monsterfinal\character.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

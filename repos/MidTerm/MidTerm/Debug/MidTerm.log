@@ -1,0 +1,4 @@
+﻿  MidTerm.cpp
+c:\users\ry\source\repos\midterm\midterm\midterm.cpp(165): error C2440: '=': cannot convert from 'std::string' to 'char *'
+  c:\users\ry\source\repos\midterm\midterm\midterm.cpp(165): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\ry\source\repos\midterm\midterm\midterm.cpp(299): warning C4244: '=': conversion from 'double' to 'int', possible loss of data

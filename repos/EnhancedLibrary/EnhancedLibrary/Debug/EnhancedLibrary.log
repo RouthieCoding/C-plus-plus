@@ -1,0 +1,9 @@
+﻿  BookClass.cpp
+c:\users\ry\source\repos\enhancedlibrary\enhancedlibrary\bookclass.cpp(73): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Books.cpp
+c:\users\ry\source\repos\enhancedlibrary\enhancedlibrary\books.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  EnhancedLibrary.cpp
+c:\users\ry\source\repos\enhancedlibrary\enhancedlibrary\bookclass.h(94): error C3861: 'storeBook': identifier not found
+c:\users\ry\source\repos\enhancedlibrary\enhancedlibrary\enhancedlibrary.cpp(16): error C2374: 'MAX_BOOKS': redefinition; multiple initialization
+  c:\users\ry\source\repos\enhancedlibrary\enhancedlibrary\bookclass.h(11): note: see declaration of 'MAX_BOOKS'
+  Generating Code...

@@ -1,0 +1,3 @@
+﻿  PickACard.cpp
+c:\users\ry\source\repos\pickacard\pickacard\pickacard.cpp(91): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PickACard.vcxproj -> C:\Users\Ry\source\repos\PickACard\Debug\PickACard.exe

@@ -1,0 +1,5 @@
+﻿  MonsterMaze.cpp
+C:\Users\Ry\source\repos\MonsterMaze\MonsterMaze\MonsterMaze.cpp(256,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ry\source\repos\MonsterMaze\MonsterMaze\MonsterMaze.cpp(388,27): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Ry\source\repos\MonsterMaze\MonsterMaze\MonsterMaze.cpp(388,27): warning C4018: C:\Users\Ry\source\repos\MonsterMaze\MonsterMaze\MonsterMaze.cpp(454) : warning C4715: 'mazeGame': not all control paths return a value
+  MonsterMaze.vcxproj -> C:\Users\Ry\source\repos\MonsterMaze\Debug\MonsterMaze.exe
