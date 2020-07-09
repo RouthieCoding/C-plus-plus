@@ -1,2 +1,2 @@
-# C-
+# C-plus-plus
 C++ Projects
